@@ -1,0 +1,16 @@
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\bin\Debug\net5.0\DiaSemana.exe
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\bin\Debug\net5.0\DiaSemana.deps.json
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\bin\Debug\net5.0\DiaSemana.runtimeconfig.json
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\bin\Debug\net5.0\DiaSemana.runtimeconfig.dev.json
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\bin\Debug\net5.0\DiaSemana.dll
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\bin\Debug\net5.0\DiaSemana.pdb
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\obj\Debug\net5.0\DiaSemana.csproj.AssemblyReference.cache
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\obj\Debug\net5.0\DiaSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\obj\Debug\net5.0\DiaSemana.AssemblyInfoInputs.cache
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\obj\Debug\net5.0\DiaSemana.AssemblyInfo.cs
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\obj\Debug\net5.0\DiaSemana.csproj.CoreCompileInputs.cache
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\obj\Debug\net5.0\DiaSemana.dll
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\obj\Debug\net5.0\refint\DiaSemana.dll
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\obj\Debug\net5.0\DiaSemana.pdb
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\obj\Debug\net5.0\DiaSemana.genruntimeconfig.cache
+C:\Users\Jose Djalma\Desktop\DiaSemana\DiaSemana\obj\Debug\net5.0\ref\DiaSemana.dll
